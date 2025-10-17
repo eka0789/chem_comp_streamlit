@@ -1,6 +1,6 @@
 # Komputasi Teknik Kimia — Mini App (Streamlit)
 
-Dibuat berdasarkan materi presentasi: **silinder (volume & tinggi 80%)**, **tabel konversi suhu (°C → °F)**, dan **tekanan uap jenuh menggunakan persamaan Antoine** termasuk **campuran ideal (Raoult)**.
+Dibuat berdasarkan materi **silinder (volume & tinggi 80%)**, **tabel konversi suhu (°C → °F)**, dan **tekanan uap jenuh menggunakan persamaan Antoine** termasuk **campuran ideal (Raoult)**.
 
 ## Fitur
 1. **Silinder**: Hitung volume (L) dari diameter (cm) dan tinggi (m). Hitung ketinggian cairan untuk fraksi pengisian (contoh: 80%).
